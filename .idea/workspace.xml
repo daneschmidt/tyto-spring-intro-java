@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9c64c6-2d8f-44db-a122-4ab6b0d0c8e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tyto-spring-intro-gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5GdsLQb7Av0fEhl0pHhS8MIrT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/scripts/scripts" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/scripts" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dane.AppConfig" />
+      <module name="tyto-spring-intro-gradle.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppConfig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9c64c6-2d8f-44db-a122-4ab6b0d0c8e2" name="Default Changelist" comment="" />
+      <created>1580328632138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580328632138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1308" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580338073744">
+      <screen x="-1885" y="-92" width="1885" height="1057" />
+    </state>
+    <state x="-1308" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877/-1885.-92.1885.1057@-1885.-92.1885.1057" timestamp="1580338073744" />
+    <state x="-1309" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580330966903" />
+    <state width="1524" height="280" key="GridCell.Tab.0.bottom" timestamp="1580397912178">
+      <screen x="-1886" y="-92" width="1886" height="1057" />
+    </state>
+    <state width="1762" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877/-1885.-92.1885.1057@-1885.-92.1885.1057" timestamp="1580338171060" />
+    <state width="1524" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580397912178" />
+    <state width="1844" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/-1887.-92.1887.1057@-1887.-92.1887.1057" timestamp="1580337218129" />
+    <state width="1370" height="290" key="GridCell.Tab.0.bottom/28.23.1412.877@28.23.1412.877" timestamp="1580337083593" />
+    <state width="1524" height="280" key="GridCell.Tab.0.center" timestamp="1580397912176">
+      <screen x="-1886" y="-92" width="1886" height="1057" />
+    </state>
+    <state width="1762" height="284" key="GridCell.Tab.0.center/0.23.1440.877/-1885.-92.1885.1057@-1885.-92.1885.1057" timestamp="1580338171060" />
+    <state width="1524" height="280" key="GridCell.Tab.0.center/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580397912176" />
+    <state width="1844" height="290" key="GridCell.Tab.0.center/0.23.1440.877/-1887.-92.1887.1057@-1887.-92.1887.1057" timestamp="1580337218128" />
+    <state width="1370" height="290" key="GridCell.Tab.0.center/28.23.1412.877@28.23.1412.877" timestamp="1580337083593" />
+    <state width="1524" height="280" key="GridCell.Tab.0.left" timestamp="1580397912176">
+      <screen x="-1886" y="-92" width="1886" height="1057" />
+    </state>
+    <state width="1762" height="284" key="GridCell.Tab.0.left/0.23.1440.877/-1885.-92.1885.1057@-1885.-92.1885.1057" timestamp="1580338171059" />
+    <state width="1524" height="280" key="GridCell.Tab.0.left/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580397912176" />
+    <state width="1844" height="290" key="GridCell.Tab.0.left/0.23.1440.877/-1887.-92.1887.1057@-1887.-92.1887.1057" timestamp="1580337218128" />
+    <state width="1370" height="290" key="GridCell.Tab.0.left/28.23.1412.877@28.23.1412.877" timestamp="1580337083592" />
+    <state width="1524" height="280" key="GridCell.Tab.0.right" timestamp="1580397912177">
+      <screen x="-1886" y="-92" width="1886" height="1057" />
+    </state>
+    <state width="1762" height="284" key="GridCell.Tab.0.right/0.23.1440.877/-1885.-92.1885.1057@-1885.-92.1885.1057" timestamp="1580338171060" />
+    <state width="1524" height="280" key="GridCell.Tab.0.right/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580397912177" />
+    <state width="1844" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-1887.-92.1887.1057@-1887.-92.1887.1057" timestamp="1580337218129" />
+    <state width="1370" height="290" key="GridCell.Tab.0.right/28.23.1412.877@28.23.1412.877" timestamp="1580337083593" />
+    <state x="-1513" y="50" key="new project wizard" timestamp="1580329931806">
+      <screen x="-1886" y="-92" width="1886" height="1057" />
+    </state>
+    <state x="-1513" y="50" key="new project wizard/0.23.1440.877/-1886.-92.1886.1057@-1886.-92.1886.1057" timestamp="1580329931806" />
+  </component>
+</project>
